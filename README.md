@@ -11,28 +11,51 @@
 <li> Calculating Machine </li>
  <img src="https://raw.githubusercontent.com/ferhatseker180/PatikaJavaExercises/master/src/week1/Week1_Project_Images/calculating%20machine.PNG" alt="Calculating Machine">
 <li> User Login </li>
+ <img src="https://raw.githubusercontent.com/ferhatseker180/PatikaJavaExercises/master/src/week1/Week1_Project_Images/userlogin.PNG" alt="User Login">
 <li> Student Grade Average Calculation </li>
+ <img src="https://raw.githubusercontent.com/ferhatseker180/PatikaJavaExercises/master/src/week1/Week1_Project_Images/course-grade-calculation.PNG" alt="Course Grade Calculation">
 <li> Suggesting Activities Based On Temperature </li>
+ <img src="https://raw.githubusercontent.com/ferhatseker180/PatikaJavaExercises/master/src/week1/Week1_Project_Images/activity-by-temperature.PNG" alt="Suggesting Activities Based On Temperature">
 <li> Compare Number </li>
+ <img src="https://raw.githubusercontent.com/ferhatseker180/PatikaJavaExercises/master/src/week1/Week1_Project_Images/compare-number.PNG" alt="Compare Number">
 <li> Find Your Horoscope </li>
+ <img src="https://raw.githubusercontent.com/ferhatseker180/PatikaJavaExercises/master/src/week1/Week1_Project_Images/horoscope.PNG" alt="Find Your Horoscope">
 <li> Find Your Chinese Zodiac </li>
+<img src="https://raw.githubusercontent.com/ferhatseker180/PatikaJavaExercises/master/src/week1/Week1_Project_Images/chinese-zodiac.PNG" alt="chinese-zodiac">
 <li> Check Leap Year </li>
+<img src="https://raw.githubusercontent.com/ferhatseker180/PatikaJavaExercises/master/src/week1/Week1_Project_Images/leap-year.PNG" alt="Leap Year">
 <li> CO-WORK: Calculate Plane Price </li>
+ <img src="https://raw.githubusercontent.com/ferhatseker180/PatikaJavaExercises/master/src/week1/Week1_Project_Images/plane-price.PNG" alt="Plane Price">
 <li> Specific Mod Calculate With Loops </li>
+ <img src="https://raw.githubusercontent.com/ferhatseker180/PatikaJavaExercises/master/src/week1/Week1_Project_Images/find-even-number.PNG" alt="even-number">
 <li> Sum Specific Number With Do-While </li>
+ <img src="https://raw.githubusercontent.com/ferhatseker180/PatikaJavaExercises/master/src/week1/Week1_Project_Images/sum-specific-number.PNG" alt="sum-specific-number">
 <li> Finding Powers Of Numbers </li>
+ <img src="https://raw.githubusercontent.com/ferhatseker180/PatikaJavaExercises/master/src/week1/Week1_Project_Images/multiples-of-number.PNG" alt="finding power">
 <li> Calculate Factorial And Combination </li>
+ <img src="https://raw.githubusercontent.com/ferhatseker180/PatikaJavaExercises/master/src/week1/Week1_Project_Images/combination-calculate.PNG" alt="combination-calculate">
 <li> Calculate Exponent </li>
+ <img src="https://raw.githubusercontent.com/ferhatseker180/PatikaJavaExercises/master/src/week1/Week1_Project_Images/calculate-exponent.PNG" alt="calculate-exponent">
 <li> Harmonic Number </li>
+ <img src="https://raw.githubusercontent.com/ferhatseker180/PatikaJavaExercises/master/src/week1/Week1_Project_Images/harmonic-number.PNG" alt="harmonic-number">
 <li> Making Diamond With Stars </li>
+ <img src="https://raw.githubusercontent.com/ferhatseker180/PatikaJavaExercises/master/src/week1/Week1_Project_Images/build-star-delta.PNG" alt="build-star-delta">
 <li> Armstrong Number </li>
+ <img src="https://raw.githubusercontent.com/ferhatseker180/PatikaJavaExercises/master/src/week1/Week1_Project_Images/armstrong-number.PNG" alt="armstrong-number">
 <li> ATM Project </li>
+ <img src="https://raw.githubusercontent.com/ferhatseker180/PatikaJavaExercises/master/src/week1/Week1_Project_Images/atm-project.PNG" alt="atm-project">
 <li> EBOB-EKOK </li>
+ <img src="https://raw.githubusercontent.com/ferhatseker180/PatikaJavaExercises/master/src/week1/Week1_Project_Images/ebob-ekok.PNG" alt="ebob-ekok">
 <li> Find Min And Max Value </li>
+ <img src="https://raw.githubusercontent.com/ferhatseker180/PatikaJavaExercises/master/src/week1/Week1_Project_Images/min-max.PNG" alt="min-max">
 <li> Check Perfect Number Or Not </li>
+ <img src="https://raw.githubusercontent.com/ferhatseker180/PatikaJavaExercises/master/src/week1/Week1_Project_Images/perfect-number.PNG" alt="perfect-number">
 <li> Reverse Delta </li>
+ <img src="https://raw.githubusercontent.com/ferhatseker180/PatikaJavaExercises/master/src/week1/Week1_Project_Images/reverse-delta.PNG" alt="reverse-delta">
 <li> Fibonacci Series </li>
+ <img src="https://raw.githubusercontent.com/ferhatseker180/PatikaJavaExercises/master/src/week1/Week1_Project_Images/fibonacci-series.PNG" alt=fibonacci-series"">
 <li> Type-Casting </li>
+ <img src="https://raw.githubusercontent.com/ferhatseker180/PatikaJavaExercises/master/src/week1/Week1_Project_Images/type-casting.PNG" alt="type-casting">
 </ol>
  </div>
 
