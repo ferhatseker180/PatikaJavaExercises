@@ -9,6 +9,7 @@
 <h2 style="text-align:center; color: yellow"> WEEK 1 Exercises: </h2>
 <ol> 
 <li> Calculating Machine </li>
+ ![Calculating Machine](https://raw.githubusercontent.com/ferhatseker180/PatikaJavaExercises/master/src/week1/Week1_Project_Images/calculating%20machine.PNG)
 <li> User Login </li>
 <li> Student Grade Average Calculation </li>
 <li> Suggesting Activities Based On Temperature </li>
