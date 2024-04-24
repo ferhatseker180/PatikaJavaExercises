@@ -8,53 +8,53 @@
 <div style="margin:10px;">
 <h2 style="text-align:center; color: yellow"> WEEK 1 Exercises: </h2>
 <ol> 
-<li> Calculating Machine </li>
+<li> <strong> Calculating Machine </strong> </li>
  <img src="https://raw.githubusercontent.com/ferhatseker180/PatikaJavaExercises/master/src/week1/Week1_Project_Images/calculating%20machine.PNG" alt="Calculating Machine">
-<li> User Login </li>
+<li> <strong> User Login </strong> </li>
  <img src="https://raw.githubusercontent.com/ferhatseker180/PatikaJavaExercises/master/src/week1/Week1_Project_Images/userlogin.PNG" alt="User Login">
-<li> Student Grade Average Calculation </li>
+<li> <strong> Student Grade Average Calculation </strong> </li>
  <img src="https://raw.githubusercontent.com/ferhatseker180/PatikaJavaExercises/master/src/week1/Week1_Project_Images/course-grade-calculation.PNG" alt="Course Grade Calculation">
-<li> Suggesting Activities Based On Temperature </li>
+<li> <strong> Suggesting Activities Based On Temperature </strong> </li>
  <img src="https://raw.githubusercontent.com/ferhatseker180/PatikaJavaExercises/master/src/week1/Week1_Project_Images/activity-by-temperature.PNG" alt="Suggesting Activities Based On Temperature">
-<li> Compare Number </li>
+<li> <strong> Compare Number </strong> </li>
  <img src="https://raw.githubusercontent.com/ferhatseker180/PatikaJavaExercises/master/src/week1/Week1_Project_Images/compare-number.PNG" alt="Compare Number">
-<li> Find Your Horoscope </li>
+<li> <strong> Find Your Horoscope </strong> </li>
  <img src="https://raw.githubusercontent.com/ferhatseker180/PatikaJavaExercises/master/src/week1/Week1_Project_Images/horoscope.PNG" alt="Find Your Horoscope">
-<li> Find Your Chinese Zodiac </li>
+<li> <strong> Find Your Chinese Zodiac </strong> </li>
 <img src="https://raw.githubusercontent.com/ferhatseker180/PatikaJavaExercises/master/src/week1/Week1_Project_Images/chinese-zodiac.PNG" alt="chinese-zodiac">
-<li> Check Leap Year </li>
+<li> <strong> Check Leap Year </strong> </li>
 <img src="https://raw.githubusercontent.com/ferhatseker180/PatikaJavaExercises/master/src/week1/Week1_Project_Images/leap-year.PNG" alt="Leap Year">
-<li> CO-WORK: Calculate Plane Price </li>
+<li> <strong> CO-WORK: Calculate Plane Price </strong> </li>
  <img src="https://raw.githubusercontent.com/ferhatseker180/PatikaJavaExercises/master/src/week1/Week1_Project_Images/plane-price.PNG" alt="Plane Price">
-<li> Specific Mod Calculate With Loops </li>
+<li> <strong> Specific Mod Calculate With Loops </strong> </li>
  <img src="https://raw.githubusercontent.com/ferhatseker180/PatikaJavaExercises/master/src/week1/Week1_Project_Images/find-even-number.PNG" alt="even-number">
-<li> Sum Specific Number With Do-While </li>
+<li> <strong> Sum Specific Number With Do-While </strong> </li>
  <img src="https://raw.githubusercontent.com/ferhatseker180/PatikaJavaExercises/master/src/week1/Week1_Project_Images/sum-specific-number.PNG" alt="sum-specific-number">
-<li> Finding Powers Of Numbers </li>
+<li> <strong> Finding Powers Of Numbers </strong> </li>
  <img src="https://raw.githubusercontent.com/ferhatseker180/PatikaJavaExercises/master/src/week1/Week1_Project_Images/multiples-of-number.PNG" alt="finding power">
-<li> Calculate Factorial And Combination </li>
+<li> <strong> Calculate Factorial And Combination </strong> </li>
  <img src="https://raw.githubusercontent.com/ferhatseker180/PatikaJavaExercises/master/src/week1/Week1_Project_Images/combination-calculate.PNG" alt="combination-calculate">
-<li> Calculate Exponent </li>
+<li> <strong> Calculate Exponent </strong> </li>
  <img src="https://raw.githubusercontent.com/ferhatseker180/PatikaJavaExercises/master/src/week1/Week1_Project_Images/calculate-exponent.PNG" alt="calculate-exponent">
-<li> Harmonic Number </li>
+<li> <strong> Harmonic Number </strong> </li>
  <img src="https://raw.githubusercontent.com/ferhatseker180/PatikaJavaExercises/master/src/week1/Week1_Project_Images/harmonic-number.PNG" alt="harmonic-number">
-<li> Making Diamond With Stars </li>
+<li> <strong> Making Diamond With Stars </strong> </li>
  <img src="https://raw.githubusercontent.com/ferhatseker180/PatikaJavaExercises/master/src/week1/Week1_Project_Images/build-star-delta.PNG" alt="build-star-delta">
-<li> Armstrong Number </li>
+<li> <strong> Armstrong Number </strong> </li>
  <img src="https://raw.githubusercontent.com/ferhatseker180/PatikaJavaExercises/master/src/week1/Week1_Project_Images/armstrong-number.PNG" alt="armstrong-number">
-<li> ATM Project </li>
+<li> <strong> ATM Project </strong> </li>
  <img src="https://raw.githubusercontent.com/ferhatseker180/PatikaJavaExercises/master/src/week1/Week1_Project_Images/atm-project.PNG" alt="atm-project">
-<li> EBOB-EKOK </li>
+<li> <strong> EBOB-EKOK </strong> </li>
  <img src="https://raw.githubusercontent.com/ferhatseker180/PatikaJavaExercises/master/src/week1/Week1_Project_Images/ebob-ekok.PNG" alt="ebob-ekok">
-<li> Find Min And Max Value </li>
+<li> <strong> Find Min And Max Value </strong> </li>
  <img src="https://raw.githubusercontent.com/ferhatseker180/PatikaJavaExercises/master/src/week1/Week1_Project_Images/min-max.PNG" alt="min-max">
-<li> Check Perfect Number Or Not </li>
+<li> <strong> Check Perfect Number Or Not </strong> </li>
  <img src="https://raw.githubusercontent.com/ferhatseker180/PatikaJavaExercises/master/src/week1/Week1_Project_Images/perfect-number.PNG" alt="perfect-number">
-<li> Reverse Delta </li>
+<li> <strong> Reverse Delta </strong> </li>
  <img src="https://raw.githubusercontent.com/ferhatseker180/PatikaJavaExercises/master/src/week1/Week1_Project_Images/reverse-delta.PNG" alt="reverse-delta">
-<li> Fibonacci Series </li>
+<li> <strong> Fibonacci Series </strong> </li>
  <img src="https://raw.githubusercontent.com/ferhatseker180/PatikaJavaExercises/master/src/week1/Week1_Project_Images/fibonacci-series.PNG" alt=fibonacci-series"">
-<li> Type-Casting </li>
+<li> <strong> Type-Casting </strong> </li>
  <img src="https://raw.githubusercontent.com/ferhatseker180/PatikaJavaExercises/master/src/week1/Week1_Project_Images/type-casting.PNG" alt="type-casting">
 </ol>
  </div>
