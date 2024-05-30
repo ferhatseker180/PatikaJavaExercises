@@ -8,52 +8,130 @@
 <div style="margin:10px;">
 <h2 style="text-align:center; color: yellow"> WEEK 1 Exercises: </h2>
 <ol> 
-<li> Calculating Machine </li>
-<li> User Login </li>
-<li> Student Grade Average Calculation </li>
-<li> Suggesting Activities Based On Temperature </li>
-<li> Compare Number </li>
-<li> Find Your Horoscope </li>
-<li> Find Your Chinese Zodiac </li>
-<li> Check Leap Year </li>
-<li> CO-WORK: Calculate Plane Price </li>
-<li> Specific Mod Calculate With Loops </li>
-<li> Sum Specific Number With Do-While </li>
-<li> Finding Powers Of Numbers </li>
-<li> Calculate Factorial And Combination </li>
-<li> Calculate Exponent </li>
-<li> Harmonic Number </li>
-<li> Making Diamond With Stars </li>
-<li> Armstrong Number </li>
-<li> ATM Project </li>
-<li> EBOB-EKOK </li>
-<li> Find Min And Max Value </li>
-<li> Check Perfect Number Or Not </li>
-<li> Reverse Delta </li>
-<li> Fibonacci Series </li>
-<li> Type-Casting </li>
+<li> <strong> Calculating Machine </strong> </li>
+ <br>
+ <img src="https://raw.githubusercontent.com/ferhatseker180/PatikaJavaExercises/master/src/week1/Week1_Project_Images/calculating%20machine.PNG" alt="Calculating Machine">
+<li> <strong> User Login </strong> </li>
+  <br>
+ <img src="https://raw.githubusercontent.com/ferhatseker180/PatikaJavaExercises/master/src/week1/Week1_Project_Images/userlogin.PNG" alt="User Login">
+<li> <strong> Student Grade Average Calculation </strong> </li>
+  <br>
+ <img src="https://raw.githubusercontent.com/ferhatseker180/PatikaJavaExercises/master/src/week1/Week1_Project_Images/course-grade-calculation.PNG" alt="Course Grade Calculation">
+<li> <strong> Suggesting Activities Based On Temperature </strong> </li>
+  <br>
+ <img src="https://raw.githubusercontent.com/ferhatseker180/PatikaJavaExercises/master/src/week1/Week1_Project_Images/activity-by-temperature.PNG" alt="Suggesting Activities Based On Temperature">
+  <br>
+<li> <strong> Compare Number </strong> </li>
+  <br>
+ <img src="https://raw.githubusercontent.com/ferhatseker180/PatikaJavaExercises/master/src/week1/Week1_Project_Images/compare-number.PNG" alt="Compare Number">
+<li> <strong> Find Your Horoscope </strong> </li>
+  <br>
+ <img src="https://raw.githubusercontent.com/ferhatseker180/PatikaJavaExercises/master/src/week1/Week1_Project_Images/horoscope.PNG" alt="Find Your Horoscope">
+<li> <strong> Find Your Chinese Zodiac </strong> </li>
+  <br>
+<img src="https://raw.githubusercontent.com/ferhatseker180/PatikaJavaExercises/master/src/week1/Week1_Project_Images/chinese-zodiac.PNG" alt="chinese-zodiac">
+<li> <strong> Check Leap Year </strong> </li>
+  <br>
+<img src="https://raw.githubusercontent.com/ferhatseker180/PatikaJavaExercises/master/src/week1/Week1_Project_Images/leap-year.PNG" alt="Leap Year">
+<li> <strong> CO-WORK: Calculate Plane Price </strong> </li>
+  <br>
+ <img src="https://raw.githubusercontent.com/ferhatseker180/PatikaJavaExercises/master/src/week1/Week1_Project_Images/plane-price.PNG" alt="Plane Price">
+<li> <strong> Specific Mod Calculate With Loops </strong> </li>
+  <br>
+ <img src="https://raw.githubusercontent.com/ferhatseker180/PatikaJavaExercises/master/src/week1/Week1_Project_Images/find-even-number.PNG" alt="even-number">
+<li> <strong> Sum Specific Number With Do-While </strong> </li>
+  <br>
+ <img src="https://raw.githubusercontent.com/ferhatseker180/PatikaJavaExercises/master/src/week1/Week1_Project_Images/sum-specific-number.PNG" alt="sum-specific-number">
+<li> <strong> Finding Powers Of Numbers </strong> </li>
+  <br>
+ <img src="https://raw.githubusercontent.com/ferhatseker180/PatikaJavaExercises/master/src/week1/Week1_Project_Images/multiples-of-number.PNG" alt="finding power">
+<li> <strong> Calculate Factorial And Combination </strong> </li>
+  <br>
+ <img src="https://raw.githubusercontent.com/ferhatseker180/PatikaJavaExercises/master/src/week1/Week1_Project_Images/combination-calculate.PNG" alt="combination-calculate">
+<li> <strong> Calculate Exponent </strong> </li>
+  <br>
+ <img src="https://raw.githubusercontent.com/ferhatseker180/PatikaJavaExercises/master/src/week1/Week1_Project_Images/calculate-exponent.PNG" alt="calculate-exponent">
+<li> <strong> Harmonic Number </strong> </li>
+  <br>
+ <img src="https://raw.githubusercontent.com/ferhatseker180/PatikaJavaExercises/master/src/week1/Week1_Project_Images/harmonic-number.PNG" alt="harmonic-number">
+<li> <strong> Making Diamond With Stars </strong> </li>
+  <br>
+ <img src="https://raw.githubusercontent.com/ferhatseker180/PatikaJavaExercises/master/src/week1/Week1_Project_Images/build-star-delta.PNG" alt="build-star-delta">
+<li> <strong> Armstrong Number </strong> </li>
+  <br>
+ <img src="https://raw.githubusercontent.com/ferhatseker180/PatikaJavaExercises/master/src/week1/Week1_Project_Images/armstrong-number.PNG" alt="armstrong-number">
+<li> <strong> ATM Project </strong> </li>
+  <br>
+ <img src="https://raw.githubusercontent.com/ferhatseker180/PatikaJavaExercises/master/src/week1/Week1_Project_Images/atm-project.PNG" alt="atm-project">
+<li> <strong> EBOB-EKOK </strong> </li>
+  <br>
+ <img src="https://raw.githubusercontent.com/ferhatseker180/PatikaJavaExercises/master/src/week1/Week1_Project_Images/ebob-ekok.PNG" alt="ebob-ekok">
+<li> <strong> Find Min And Max Value </strong> </li>
+  <br>
+ <img src="https://raw.githubusercontent.com/ferhatseker180/PatikaJavaExercises/master/src/week1/Week1_Project_Images/min-max.PNG" alt="min-max">
+<li> <strong> Check Perfect Number Or Not </strong> </li>
+  <br>
+ <img src="https://raw.githubusercontent.com/ferhatseker180/PatikaJavaExercises/master/src/week1/Week1_Project_Images/perfect-number.PNG" alt="perfect-number">
+<li> <strong> Reverse Delta </strong> </li>
+  <br>
+ <img src="https://raw.githubusercontent.com/ferhatseker180/PatikaJavaExercises/master/src/week1/Week1_Project_Images/reverse-delta.PNG" alt="reverse-delta">
+<li> <strong> Fibonacci Series </strong> </li>
+  <br>
+ <img src="https://raw.githubusercontent.com/ferhatseker180/PatikaJavaExercises/master/src/week1/Week1_Project_Images/fibonacci-series.PNG" alt=fibonacci-series"">
+<li> <strong> Type-Casting </strong> </li>
+  <br>
+ <img src="https://raw.githubusercontent.com/ferhatseker180/PatikaJavaExercises/master/src/week1/Week1_Project_Images/type-casting.PNG" alt="type-casting">
 </ol>
  </div>
 
 <div style="margin:10px;">
 <h2 style="text-align:center; color: yellow"> WEEK 2 Exercises: </h2>
 <ol> 
-<li> Check Polindrom Number </li>
-<li> Fibonacci Series With Recursive </li>
-<li> Advanced Calculating Machine </li>
-<li> Exponentiation With Recursive </li>
-<li> Check Prime Number With Recursive </li>
-<li> Decrease-Increase With Recursive </li>
-<li> Education Management System </li>
-<li> Boxing Match Simulation </li>
-<li> Calculate Employee Salary System </li>
-<li> Find Closest Min And Max Value In Array </li>
-<li> Draw Letter B With Array </li>
-<li> Repeat Number In Array </li>
-<li> Sort Elements In Array </li>
-<li> Find Frequency Of Number </li>
-<li> Find Transpoze Of Matrix </li>
-<li> Guess Number Game </li>
+<li> <strong> Check Polindrom Number </strong> </li>
+  <br>
+ <img src="https://raw.githubusercontent.com/ferhatseker180/PatikaJavaExercises/master/src/week2/ProjectImages/palindrom-number.PNG" alt="palindrom-number">
+<li> <strong> Fibonacci Series With Recursive </strong> </li>
+  <br>
+ <img src="https://raw.githubusercontent.com/ferhatseker180/PatikaJavaExercises/master/src/week2/ProjectImages/fibonacci-series.PNG" alt="fibonacci-series">
+<li> <strong> Advanced Calculating Machine </strong> </li>
+  <br>
+ <img src="https://raw.githubusercontent.com/ferhatseker180/PatikaJavaExercises/master/src/week2/ProjectImages/advanced-calculate-machine.PNG" alt="advanced-calculate-machine">
+<li> <strong> Exponentiation With Recursive </strong> </li>
+  <br>
+ <img src="https://raw.githubusercontent.com/ferhatseker180/PatikaJavaExercises/master/src/week2/ProjectImages/exponent-with-recursive.PNG" alt="exponent-with-recursive">
+<li> <strong> Check Prime Number With Recursive </strong> </li>
+  <br>
+ <img src="https://raw.githubusercontent.com/ferhatseker180/PatikaJavaExercises/master/src/week2/ProjectImages/prime-number.PNG" alt="prime-number">
+<li> <strong> Decrease-Increase With Recursive </strong> </li>
+  <br>
+ <img src="https://raw.githubusercontent.com/ferhatseker180/PatikaJavaExercises/master/src/week2/ProjectImages/decrease-increase-recursive.PNG" alt="decrease-increase-recursive">
+<li> <strong> Education Management System </strong> </li>
+  <br>
+ <img src="https://raw.githubusercontent.com/ferhatseker180/PatikaJavaExercises/master/src/week2/ProjectImages/student-information-system.PNG" alt="student-information-system">
+<li> <strong> Boxing Match Simulation </strong> </li>
+  <br>
+ <img src="https://raw.githubusercontent.com/ferhatseker180/PatikaJavaExercises/master/src/week2/ProjectImages/boxing-fight.PNG" alt="boxing-fight">
+<li> <strong> Calculate Employee Salary System </strong> </li>
+  <br>
+ <img src="https://raw.githubusercontent.com/ferhatseker180/PatikaJavaExercises/master/src/week2/ProjectImages/employee-salary.PNG" alt="employee-salary">
+<li> <strong> Find Closest Min And Max Value In Array </strong> </li>
+  <br>
+ <img src="https://raw.githubusercontent.com/ferhatseker180/PatikaJavaExercises/master/src/week2/ProjectImages/min-max-array.PNG" alt="min-max-array">
+<li> <strong> Draw Letter B With Array </strong> </li>
+  <br>
+ <img src="https://raw.githubusercontent.com/ferhatseker180/PatikaJavaExercises/master/src/week2/ProjectImages/B-Letter.PNG" alt="B-Letter">
+<li> <strong> Repeat Number In Array </strong> </li>
+  <br>
+ <img src="https://raw.githubusercontent.com/ferhatseker180/PatikaJavaExercises/master/src/week2/ProjectImages/repeat-number.PNG" alt="repeat-number">
+<li> <strong> Sort Elements In Array </strong> </li>
+  <br>
+ <img src="https://raw.githubusercontent.com/ferhatseker180/PatikaJavaExercises/master/src/week2/ProjectImages/sort-array.PNG" alt="sort-array">
+<li> <strong> Find Frequency Of Number </strong> </li>
+  <br>
+ <img src="https://raw.githubusercontent.com/ferhatseker180/PatikaJavaExercises/master/src/week2/ProjectImages/frequency-numbers.PNG" alt="frequency-numbers">
+<li> <strong> Find Transpoze Of Matrix </strong> </li>
+  <br>
+ <img src="https://raw.githubusercontent.com/ferhatseker180/PatikaJavaExercises/master/src/week2/ProjectImages/matrix-transpoze.PNG" alt="matrix-transpoze">
 </ol>
  </div>
 
